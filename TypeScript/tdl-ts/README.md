@@ -84,26 +84,25 @@
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/04471-medium-zip/README.md" target="_blank"><img src="https://img.shields.io/badge/-4471%E3%83%BBZip-d9901a" alt="4471・Zip"/></a> 
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/04484-medium-istuple/README.md" target="_blank"><img src="https://img.shields.io/badge/-4484%E3%83%BBIsTuple-d9901a" alt="4484・IsTuple"/></a>
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/04499-medium-chunk/README.md" target="_blank"><img src="https://img.shields.io/badge/-4499%E3%83%BBChunk-d9901a" alt="4499・Chunk"/></a>
-
-## 🤔 UnPassed Challenges
->  Trying by **order**...
-
-<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/04518-medium-fill/README.md" target="_blank"><img src="https://img.shields.io/badge/-4518%E3%83%BBFill-d9901a" alt="4518・Fill"/></a> 
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/04803-medium-trim-right/README.md" target="_blank"><img src="https://img.shields.io/badge/-4803%E3%83%BBTrim%20Right-d9901a" alt="4803・Trim Right"/></a> 
-<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/05117-medium-without/README.md" target="_blank"><img src="https://img.shields.io/badge/-5117%E3%83%BBWithout-d9901a" alt="5117・Without"/></a> 
+<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/05117-medium-without/README.md" target="_blank"><img src="https://img.shields.io/badge/-5117%E3%83%BBWithout-d9901a" alt="5117・Without"/></a>
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/05140-medium-trunc/README.md" target="_blank"><img src="https://img.shields.io/badge/-5140%E3%83%BBTrunc-d9901a" alt="5140・Trunc"/></a> 
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/05153-medium-indexof/README.md" target="_blank"><img src="https://img.shields.io/badge/-5153%E3%83%BBIndexOf-d9901a" alt="5153・IndexOf"/></a> 
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/05310-medium-join/README.md" target="_blank"><img src="https://img.shields.io/badge/-5310%E3%83%BBJoin-d9901a" alt="5310・Join"/></a> 
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/05317-medium-lastindexof/README.md" target="_blank"><img src="https://img.shields.io/badge/-5317%E3%83%BBLastIndexOf-d9901a" alt="5317・LastIndexOf"/></a> 
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/05360-medium-unique/README.md" target="_blank"><img src="https://img.shields.io/badge/-5360%E3%83%BBUnique-d9901a" alt="5360・Unique"/></a> 
-<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/05821-medium-maptypes/README.md" target="_blank"><img src="https://img.shields.io/badge/-5821%E3%83%BBMapTypes-d9901a" alt="5821・MapTypes"/></a> 
+<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/05821-medium-maptypes/README.md" target="_blank"><img src="https://img.shields.io/badge/-5821%E3%83%BBMapTypes-d9901a" alt="5821・MapTypes"/></a>
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/07544-medium-construct-tuple/README.md" target="_blank"><img src="https://img.shields.io/badge/-7544%E3%83%BBConstruct%20Tuple-d9901a" alt="7544・Construct Tuple"/></a> 
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/08640-medium-number-range/README.md" target="_blank"><img src="https://img.shields.io/badge/-8640%E3%83%BBNumber%20Range-d9901a" alt="8640・Number Range"/></a> 
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/08767-medium-combination/README.md" target="_blank"><img src="https://img.shields.io/badge/-8767%E3%83%BBCombination-d9901a" alt="8767・Combination"/></a> 
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/08987-medium-subsequence/README.md" target="_blank"><img src="https://img.shields.io/badge/-8987%E3%83%BBSubsequence-d9901a" alt="8987・Subsequence"/></a> 
-<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/09142-medium-checkrepeatedchars/README.md" target="_blank"><img src="https://img.shields.io/badge/-9142%E3%83%BBCheckRepeatedChars-d9901a" alt="9142・CheckRepeatedChars"/></a> 
+<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/09142-medium-checkrepeatedchars/README.md" target="_blank"><img src="https://img.shields.io/badge/-9142%E3%83%BBCheckRepeatedChars-d9901a" alt="9142・CheckRepeatedChars"/></a>
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/09286-medium-firstuniquecharindex/README.md" target="_blank"><img src="https://img.shields.io/badge/-9286%E3%83%BBFirstUniqueCharIndex-d9901a" alt="9286・FirstUniqueCharIndex"/></a> 
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/09896-medium-get-middle-element/README.md" target="_blank"><img src="https://img.shields.io/badge/-9896%E3%83%BBGetMiddleElement-d9901a" alt="9896・GetMiddleElement"/></a> 
+## 🤔 UnPassed Challenges
+>  Trying by **order**...
+
+<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/04518-medium-fill/README.md" target="_blank"><img src="https://img.shields.io/badge/-4518%E3%83%BBFill-d9901a" alt="4518・Fill"/></a> 
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/09898-medium-zhao-chu-mu-biao-shu-zu-zhong-zhi-chu-xian-guo-yi-ci-de-yuan-su/README.md" target="_blank"><img src="https://img.shields.io/badge/-9898%E3%83%BBAppear%20only%20once-d9901a" alt="9898・Appear only once"/></a> 
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/10969-medium-integer/README.md" target="_blank"><img src="https://img.shields.io/badge/-10969%E3%83%BBInteger-d9901a" alt="10969・Integer"/></a> 
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/16259-medium-to-primitive/README.md" target="_blank"><img src="https://img.shields.io/badge/-16259%E3%83%BBToPrimitive-d9901a" alt="16259・ToPrimitive"/></a> 
