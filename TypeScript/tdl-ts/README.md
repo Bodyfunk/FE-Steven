@@ -2,16 +2,15 @@
   <img src='./screenshots/logo.svg' width='400'/>
 </p>
 
-<p align='center'>My Solutions of TypeScript type challenges</p>
+<!-- <p align='center'>My Solutions of TypeScript type challenges</p> -->
 
 ## 🎈 Intro
-这个仓库主要是自己在学习 [神光的编程秘籍-《TypeScript 类型体操通关秘籍》小册](https://juejin.cn/book/7047524421182947366?enter_from=course_center&utm_source=course_center) 后，通过做 [类型体操题](https://github.com/type-challenges/type-challenges) 来加深自己对 TypeScript 的理解。
+这个仓库主要是记录自己在边学习 [神光的编程秘籍-《TypeScript 类型体操通关秘籍》小册](https://juejin.cn/book/7047524421182947366?enter_from=course_center&utm_source=course_center) 时，边通过做 [类型体操题](https://github.com/type-challenges/type-challenges) 来加深自己对 TypeScript 的理解。
 
-> 原练习题仓库地址在 [这里](https://github.com/type-challenges/type-challenges)
+> 原类型体操练习题仓库地址在 [这里](https://github.com/type-challenges/type-challenges)
 
+> 我的解题记录在 [这里](https://github.com/stevenaces/FE-Steven/tree/master/TypeScript/tdl-ts/type-challenges) 
 ## 🥳 Passed Challenges
-> My Solutions are [here](https://github.com/stevenaces/FE-Steven/tree/master/TypeScript/tdl-ts/type-challenges) 
-
 <!--challenges-start-->
 <img src="https://img.shields.io/badge/warm--up-1-teal" alt="1"/><br><a href="https://github.com/type-challenges/type-challenges/blob/main/questions/00013-warm-hello-world/README.md" target="_blank">
 <img src="https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal" alt="13・Hello World"/></a>
@@ -99,25 +98,24 @@
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/09142-medium-checkrepeatedchars/README.md" target="_blank"><img src="https://img.shields.io/badge/-9142%E3%83%BBCheckRepeatedChars-d9901a" alt="9142・CheckRepeatedChars"/></a>
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/09286-medium-firstuniquecharindex/README.md" target="_blank"><img src="https://img.shields.io/badge/-9286%E3%83%BBFirstUniqueCharIndex-d9901a" alt="9286・FirstUniqueCharIndex"/></a> 
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/09896-medium-get-middle-element/README.md" target="_blank"><img src="https://img.shields.io/badge/-9896%E3%83%BBGetMiddleElement-d9901a" alt="9896・GetMiddleElement"/></a> 
-## 🤔 UnPassed Challenges
->  Trying by **order**...
-
-<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/04518-medium-fill/README.md" target="_blank"><img src="https://img.shields.io/badge/-4518%E3%83%BBFill-d9901a" alt="4518・Fill"/></a> 
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/09898-medium-zhao-chu-mu-biao-shu-zu-zhong-zhi-chu-xian-guo-yi-ci-de-yuan-su/README.md" target="_blank"><img src="https://img.shields.io/badge/-9898%E3%83%BBAppear%20only%20once-d9901a" alt="9898・Appear only once"/></a> 
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/10969-medium-integer/README.md" target="_blank"><img src="https://img.shields.io/badge/-10969%E3%83%BBInteger-d9901a" alt="10969・Integer"/></a> 
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/16259-medium-to-primitive/README.md" target="_blank"><img src="https://img.shields.io/badge/-16259%E3%83%BBToPrimitive-d9901a" alt="16259・ToPrimitive"/></a> 
-<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/17973-medium-deepmutable/README.md" target="_blank"><img src="https://img.shields.io/badge/-17973%E3%83%BBDeepMutable-d9901a" alt="17973・DeepMutable"/></a> 
-<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/18142-medium-all/README.md" target="_blank"><img src="https://img.shields.io/badge/-18142%E3%83%BBAll-d9901a" alt="18142・All"/></a> 
+<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/17973-medium-deepmutable/README.md" target="_blank"><img src="https://img.shields.io/badge/-17973%E3%83%BBDeepMutable-d9901a" alt="17973・DeepMutable"/></a>
+<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/18142-medium-all/README.md" target="_blank"><img src="https://img.shields.io/badge/-18142%E3%83%BBAll-d9901a" alt="18142・All"/></a>
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/18220-medium-filter/README.md" target="_blank"><img src="https://img.shields.io/badge/-18220%E3%83%BBFilter-d9901a" alt="18220・Filter"/></a>
-<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/21106-medium-zu-he-jian-lei-xing-combination-key-type/README.md" target="_blank"><img src="https://img.shields.io/badge/-21106%E3%83%BBCombination%20key%20type-d9901a" alt="21106・Combination key type"/></a> 
-<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/25170-medium-replace-first/README.md" target="_blank"><img src="https://img.shields.io/badge/-25170%E3%83%BBReplace%20First-d9901a" alt="25170・Replace First"/></a> 
-<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/25270-medium-transpose/README.md" target="_blank"><img src="https://img.shields.io/badge/-25270%E3%83%BBTranspose-d9901a" alt="25270・Transpose"/></a> 
-<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/26401-medium-json-schema-to-typescript/README.md" target="_blank"><img src="https://img.shields.io/badge/-26401%E3%83%BBJSON%20Schema%20to%20TypeScript-d9901a" alt="26401・JSON Schema to TypeScript"/></a> 
-<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/27133-medium-square/README.md" target="_blank"><img src="https://img.shields.io/badge/-27133%E3%83%BBSquare-d9901a" alt="27133・Square"/></a> 
-<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/27152-medium-triangular-number/README.md" target="_blank"><img src="https://img.shields.io/badge/-27152%E3%83%BBTriangular%20number-d9901a" alt="27152・Triangular number"/></a> 
-<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/27862-medium-cartesianproduct/README.md" target="_blank"><img src="https://img.shields.io/badge/-27862%E3%83%BBCartesianProduct-d9901a" alt="27862・CartesianProduct"/></a> 
-<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/27932-medium-mergeall/README.md" target="_blank"><img src="https://img.shields.io/badge/-27932%E3%83%BBMergeAll-d9901a" alt="27932・MergeAll"/></a> 
+<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/21106-medium-zu-he-jian-lei-xing-combination-key-type/README.md" target="_blank"><img src="https://img.shields.io/badge/-21106%E3%83%BBCombination%20key%20type-d9901a" alt="21106・Combination key type"/></a>
+<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/25170-medium-replace-first/README.md" target="_blank"><img src="https://img.shields.io/badge/-25170%E3%83%BBReplace%20First-d9901a" alt="25170・Replace First"/></a>
+<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/27133-medium-square/README.md" target="_blank"><img src="https://img.shields.io/badge/-27133%E3%83%BBSquare-d9901a" alt="27133・Square"/></a>
+<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/27152-medium-triangular-number/README.md" target="_blank"><img src="https://img.shields.io/badge/-27152%E3%83%BBTriangular%20number-d9901a" alt="27152・Triangular number"/></a>
+<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/27862-medium-cartesianproduct/README.md" target="_blank"><img src="https://img.shields.io/badge/-27862%E3%83%BBCartesianProduct-d9901a" alt="27862・CartesianProduct"/></a>
+<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/27932-medium-mergeall/README.md" target="_blank"><img src="https://img.shields.io/badge/-27932%E3%83%BBMergeAll-d9901a" alt="27932・MergeAll"/></a>
 <a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/27958-medium-checkrepeatedtuple/README.md" target="_blank"><img src="https://img.shields.io/badge/-27958%E3%83%BBCheckRepeatedTuple-d9901a" alt="27958・CheckRepeatedTuple"/></a>
+<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/04518-medium-fill/README.md" target="_blank"><img src="https://img.shields.io/badge/-4518%E3%83%BBFill-d9901a" alt="4518・Fill"/></a>
+<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/25270-medium-transpose/README.md" target="_blank"><img src="https://img.shields.io/badge/-25270%E3%83%BBTranspose-d9901a" alt="25270・Transpose"/></a> 
+<a href="https://github.com/type-challenges/type-challenges/blob/main/questions/questions/26401-medium-json-schema-to-typescript/README.md" target="_blank"><img src="https://img.shields.io/badge/-26401%E3%83%BBJSON%20Schema%20to%20TypeScript-d9901a" alt="26401・JSON Schema to TypeScript"/></a>
+## 🤔 UnPassed Challenges
+>  Trying by **order**...
 
 <!-- hard -->
 <img src="https://img.shields.io/badge/hard-45-de3d37" alt="45"/><br>
